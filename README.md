@@ -1,4 +1,4 @@
-# EAS
+# EAS Dataset
 [![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)
 
 Emotions Analytic System (EAS) on Instagram social network data
