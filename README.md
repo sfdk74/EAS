@@ -10,16 +10,20 @@ This Dataset has over 370,000 preprocessed comments (that most of them are in Pe
 # Citation
 If you use this dataset in your publications, please cite this paper:
 ```
-@article{,
-  title="",
-  journal="",
-  year="",
-  month="",
-  day="",
-  volume="",
-  number="",
-  pages=""author={},
-  issn="",
-  doi=""
+@article {
+author = {Kiaei, Seyed Faridoddin and Dehghan Rouzi, Mohammad and Farzi, Saeed},
+title = {Designing and Implementing an Emotion Analytic System (EAS) on Instagram Social Network Data},
+journal = {International Journal of Web Research},
+volume = {2},
+number = {2},
+pages = {9-14},
+year  = {2019},
+publisher = {University of Science and Culture},
+issn = {2645-4335}, 
+eissn = {2645-4343}, 
+doi = {10.22133/ijwr.2020.225574.1052},
+keywords = {Emotion Analysis,visualization,Instagram,Election},	
+url = {http://ijwr.usc.ac.ir/article_110287.html},
+eprint = {http://ijwr.usc.ac.ir/article_110287_ad2b34be8792fd3e55ae13ea0f367b7a.pdf}
 }
 ```
